@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SaShkeevi4
+- 🌱 I'm currently learning how to create neural networks based on Python
+- ⚡ Fun fact: You can't remember what you never knew
